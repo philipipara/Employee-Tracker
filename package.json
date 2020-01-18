@@ -1,0 +1,19 @@
+{
+  "name": "hw10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Inquirer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipipara/Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipipara/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/philipipara/Employee-Tracker#readme"
+}
